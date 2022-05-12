@@ -9,10 +9,12 @@ table{
     width: 300px;
 }
 
-.index{
-    height: 100px;
+img{
+    width: 100%;
+    height: 100%;
 }
-.see1{
-    border: none;
-    text-align: right;
+.lung{
+    filter: blur(4px);
 }
+
+    
